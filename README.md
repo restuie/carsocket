@@ -1,4 +1,4 @@
-#websocket_nodejs
+# websocket_nodejs
 git remote add origin https://github.com/restuie/websocket_nodejs.git
 
 git push -u origin master
@@ -11,10 +11,16 @@ https://medium.com/enjoy-life-enjoy-coding/javascript-websocket-%E8%AE%93%E5%89%
 
 https://waylau.com/node.js-websocket-chat/
 
-#heroku
+# heroku
+
 heroku login
+
 git init
+
 heroku git:remote -a restuie
+
 git add .
+
 git commit -am "make it better"
+
 git push heroku master

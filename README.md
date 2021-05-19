@@ -24,3 +24,12 @@ git add .
 git commit -am "make it better"
 
 git push heroku master
+
+# package.json
+  "scripts": {
+    "start": "node server.js"
+  },
+  
+  "engines": {
+    "node": "xx.xx.x"
+  },

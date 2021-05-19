@@ -13,6 +13,12 @@ https://waylau.com/node.js-websocket-chat/
 
 # heroku
 
+npm init --yes
+
+npm install --save express
+
+npm install --save ws bufferutil utf-8-validate
+
 heroku login
 
 git init

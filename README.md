@@ -17,7 +17,7 @@ heroku login
 
 git init
 
-heroku git:remote -a restuie
+heroku git:remote -a appname
 
 git add .
 
